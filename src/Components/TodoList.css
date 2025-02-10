@@ -116,4 +116,8 @@
     gap: 140px;
     margin: 10px;
 }
+.completed {
+    text-decoration: line-through;
+    color: #888
+}
 
